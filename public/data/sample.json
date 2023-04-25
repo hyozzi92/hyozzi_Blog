@@ -1,0 +1,72 @@
+
+
+{
+  "code" : 1,
+  "entity" : {
+    "Javascript": [
+      {
+        "id" : 1,
+        "header": "자바스크립트1",
+        "content": "석양이진다",
+        "regDate": "2023-01-01"
+      },
+      {
+        "id" : 2,
+        "header": "자바스크립트2",
+        "content": "석양이진다",
+        "regDate": "2023-01-02"
+      },
+      {
+        "id" : 3,
+        "header": "자바스크립트3",
+        "content": "석양이진다",
+        "regDate": "2023-01-03"
+      },
+      {
+        "id" : 4,
+        "header": "자바스크립트4",
+        "content": "석양이진다",
+        "regDate": "2023-01-04"
+      },
+      {
+        "id" : 5,
+        "header": "자바스크립트5",
+        "content": "석양이진다",
+        "regDate": "2023-01-05"
+      }
+    ],
+    "Python": [
+      {
+        "id" : 1,
+        "header": "파이썬1",
+        "content": "석양이진다",
+        "regDate": "2023-02-01"
+      },
+      {
+        "id" : 2,
+        "header": "파이썬2",
+        "content": "석양이진다",
+        "regDate": "2023-02-02"
+      },
+      {
+        "id" : 3,
+        "header": "파이썬3",
+        "content": "석양이진다",
+        "regDate": "2023-02-03"
+      },
+      {
+        "id" : 4,
+        "header": "파이썬4",
+        "content": "석양이진다",
+        "regDate": "2023-02-04"
+      },
+      {
+        "id" : 5,
+        "header": "파이썬5",
+        "content": "석양이진다",
+        "regDate": "2023-02-05"
+      }
+    ]
+  },
+  "message" : null
+}
